@@ -1,0 +1,4 @@
+baseURL = 'http://rigvedrs.github.io/'
+languageCode = 'en-us'
+title = 'Rigveds Blog'
+theme = "LoveIt"
